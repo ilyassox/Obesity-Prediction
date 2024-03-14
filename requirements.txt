@@ -1,0 +1,4 @@
+﻿numpy==1.26.2
+pickleshare
+xgboost==2.0.3
+streamlit
